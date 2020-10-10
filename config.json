@@ -1,0 +1,34 @@
+{
+  "data_path": "/home/hosni/screening-review-backend/data",
+  "googleNews": {
+  "base_url": "https://news.google.com/search?q=+",
+  "query": "docker",
+  "expiry_days": 90,
+  "proxy": "http://cfrisch:rhpsbqkw@uk.proxymesh.com:31280  ",
+  "output_folder": "/google_news_data/"
+},
+
+     "mongo": {
+        "mongo_uri"        : "",
+        "db_name"          : "",
+        "mongo_collection" : "client",
+        "port"             :  22018,
+        "username"         : "",
+        "password"         : "",
+        "mongo_auth_source": ""
+      },
+
+   "application": {
+    "host": "127.0.0.1",
+    "port": "1776"
+
+  },
+  "twitter":{
+      "ACCESS_TOKEN" : "",
+      "ACCESS_TOKEN_SECRET" : "",
+      "CONSUMER_KEY" : "",
+      "CONSUMER_SECRET" : ""
+  }
+
+}
+

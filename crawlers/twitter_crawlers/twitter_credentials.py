@@ -1,0 +1,4 @@
+ACCESS_TOKEN                = "1085687624004718592-OFt18RwTk2Fjs8iIkxNQJ7hGCTRc8k",
+ACCESS_TOKEN_SECRET         = "aJbXM453ABM6XYjZdadkDbSVfTuW8W4UlSnyheevlZAIY",
+CONSUMER_KEY                = "wpjfstyikV9KrXhfmiVZfEc4y",
+CONSUMER_SECRET             = "D9nPYlE3u8piuGeToToUU61m3IpMiKPhGZUmvziHJsPHs5Qrjo"
